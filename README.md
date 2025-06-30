@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img alt="stats" src = "https://github-readme-stats.vercel.app/api/wakatime?username=emilianojan"/>
+<img alt="stats" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmilianoJan&&show_icons=true&theme=dark"/>
 
 <!--
 **EmilianoJan/EmilianoJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
