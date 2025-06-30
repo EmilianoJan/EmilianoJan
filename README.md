@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmilianoJan)](https://github.com/EmilianoJan/github-readme-stats)
 
+<img alt="stats" src = "https://github-readme-stats.vercel.app/api/wakatime?username=EmilianoJan"/>
 
 <!--
 **EmilianoJan/EmilianoJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmilianoJan)](https://github.com/EmilianoJan/github-readme-stats)
 -->
