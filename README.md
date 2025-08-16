@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Emiliano!
 
-I am a researcher in applied sciences, currently working at Stämm. I'm also working on a personal optical simulation project called [Lambda Studio](https://www.emilianojan.com.ar/lambdaStudio/main.html).
+I am a researcher in applied sciences, currently working at [Stämm](https://www.stamm.bio/). I'm also working on a personal optical simulation project called [Lambda Studio](https://www.emilianojan.com.ar/lambdaStudio/main.html).
 
 **Education:** 
    I am an electronic engineer and hold a PhD in engineering from the University of Buenos Aires.
